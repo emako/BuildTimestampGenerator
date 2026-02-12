@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="src\BuildTimestampDummy\BuildTimestampDummy.csproj" />
+  <Project Path="src\BuildTimestampGenerator\BuildTimestampGenerator.csproj" />
+</Solution>
